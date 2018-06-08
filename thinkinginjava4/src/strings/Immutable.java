@@ -1,6 +1,12 @@
 
 package strings;
 
+/**
+an argument usually looks like a piece of information
+provided to the method
+not something to be modified.
+**/
+
 //: strings/Immutable.java
 import static net.mindview.util.Print.*;
 
